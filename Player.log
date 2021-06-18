@@ -1,0 +1,614 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Caves of Qud/CoQ_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Caves of Qud/MonoBleedingEdge/etc'
+Initialize engine version: 2020.1.2f1 (7b32bc54ba47)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Caves of Qud/CoQ_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   27.21.14.6172
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.327 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.517400 ms
+<color=#AAAAAA>[Info] GameLogger initialized...</color>
+<color=orange>Logger..cctor</color>
+<color=red></color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+<color=#AAAAAA>[Info] TraceLogger initialized...</color>
+<color=orange>Logger..cctor</color>
+<color=red></color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+<color=#AAAAAA>[Info] Starting up logger...</color>
+<color=orange>GameManager.Awake</color>
+<color=red></color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Startup time: Friday, June 18, 2021 at 5:31:19 PM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Version: 2.0.201.106 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Platform: WindowsPlayer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System Language: English 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unity Version: 2020.1.2f1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unity Reported Version: 2.0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+UI manager has a non-window child: CommonDialogs DialogManager 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+accessign optiosn pre-init: OptionEnableMods 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Requesting stats... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Subscribed workshop items: 2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Enabled mods: Brainwraith Genotype - Play as a psychic ghost!, Playable Dromads, drakken 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Building script mods 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Caves of Qud/CoQ_Data/Mono/data-1489F050.dll
+INFO - Done Building script mods in 69ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Resetting static caches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading genders 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading genders in 5ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading PronounSets.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading PronounSets.xml in 6ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Display.txt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Display.txt in 14ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Resetting static caches in 96ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: hide 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: clear 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: write 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: writeline 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: help 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: select 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: list 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARN - Multiple debug commands defined for: call 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Sidebar swap to left 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting game thread... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Data path: C:/Program Files (x86)/Steam/steamapps/common/Caves of Qud/CoQ_Data/StreamingAssets\Base 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Save path: C:/Users/tsano/AppData/LocalLow/Freehold Games/CavesOfQud 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting core... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Started! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaning up...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting up XRL...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Initialize Genders and Pronoun Sets...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Initialize Name Styles...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Naming.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+exTextureInfo must be instantiated using the ScriptableObject.CreateInstance method instead of new exTextureInfo. 
+(Filename:  Line: 682)
+
+exTextureInfo must be instantiated using the ScriptableObject.CreateInstance method instead of new exTextureInfo. 
+(Filename:  Line: 682)
+
+exTextureInfo must be instantiated using the ScriptableObject.CreateInstance method instead of new exTextureInfo. 
+(Filename:  Line: 682)
+
+exTextureInfo must be instantiated using the ScriptableObject.CreateInstance method instead of new exTextureInfo. 
+(Filename:  Line: 682)
+
+INFO - Done Loading Naming.xml in 14ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading World Blueprints...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading Help...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Init Pathfinder...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Init Console UIs...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Looker INIT! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Colors.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Colors.xml in 14ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading ZoneTemplates.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading ZoneTemplates.xml in 10ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Conversations.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Conversations.xml in 30ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Quests.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Quests.xml in 10ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading ObjectBlueprints.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Mutations.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Mutations.xml in 4ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+MODERROR [Brainwraith Genotype - Play as a psychic ghost!] - Duplicate tag Name="BaseObject" found in ObjectBlueprints.XML at: file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/ObjectBlueprints.xml line 35 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Initilization complete... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayFab player id: 5e273318-5fda-4604-bce5-d38d48030489 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The header Accept-Encoding is managed automatically, setting it may have no effect or result in unexpected behavior. 
+(Filename:  Line: 46)
+
+Sidebar swap to right 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading ObjectBlueprints.xml in 950ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Dispatch LoadBlueprint 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Initialize tinkering 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Initialize tinkering in 3ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Mods.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Mods.xml in 3ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading medication names 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading medication names in 26ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Initialize liquids 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Initialize liquids in 29ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading PopulationTables.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading PopulationTables.xml in 22ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Bodies.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Bodies.xml in 12ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Skills.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Skills.xml in 4ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading EncounterTables.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading EncounterTables.xml in 18ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayFab login success. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayFab token expires 06/19/2021 15:31:22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Dispatch LoadBlueprint in 889ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading BuildingTiles.txt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading BuildingTiles.txt in 11ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Game... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading Factions.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading Factions.xml in 7ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading user prefs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 16, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 23, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 38, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 46, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 61, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 68, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 87, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 95, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 113, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 120, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 140, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 148, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 164, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 172, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 188, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 197, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 216, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 225, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 239, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 247, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 271, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 279, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 295, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 302, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 320, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 329, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 344, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 350, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 362, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+file:///C:/Program Files (x86)/Steam/steamapps/workshop/content/333640/1239762624/Subtypes.xml uses chargeninfo element at line 371, should be ported to extrainfo elements 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading PronounSets.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading PronounSets.xml in 1ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Beginning world build for seed: 6070CBEF 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Loading HistorySpice.json 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Loading HistorySpice.json in 46ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Building zone... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Building zone... in 142ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Building zone... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO - Done Building zone... in 108ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find lair for village: Sheshur at 12 to 18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find village for village: Sheshur at 9 to 21 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find friendly settlement for village: Kalil at 12 to 18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find friendly settlement for village: Dumrod at 12 to 18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find friendly settlement for village: Miruk at 12 to 18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group of lovers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some organization 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: someone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some organization 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: someone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a child 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a mysterious person 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: someone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a child 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: somebody 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some party 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a woman 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: someone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some party 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: someone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some organization 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some sect 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group of friends 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a man 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some cabal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: somebody 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group of friends 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a child 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some organization 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: somebody 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: someone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group of friends 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some cabal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a baby 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: somebody 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some cabal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some party 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a man 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: a child 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group of friends 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some sect 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: some group of lovers 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to get faction: someone 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.ArgumentNullException: Value cannot be null.
+Parameter name: type
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00003] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at XRL.UI.CreateCharacter.AddSkill (System.String Class) [0x00011] in <1c1a1304c9594e7289660a31cea1da72>:0 
+  at XRL.UI.CreateCharacter.GenerateEquipment () [0x0015f] in <1c1a1304c9594e7289660a31cea1da72>:0 
+  at XRL.Core.XRLCore.NewGame () [0x0051f] in <1c1a1304c9594e7289660a31cea1da72>:0 
+  at XRL.Core.XRLCore._Start () [0x006c1] in <1c1a1304c9594e7289660a31cea1da72>:0 
+  at XRL.Core.XRLCore._ThreadStart () [0x0000a] in <1c1a1304c9594e7289660a31cea1da72>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exiting main thread due to stopped game thread.Stopped 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Stopping... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Shutting down Steam... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Stopping... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Shutting down Steam... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e04 -> priority: 1 
+  Thread -> id: 162c -> priority: 1 
+Stopping... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Shutting down Steam... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
